@@ -15,6 +15,7 @@ It highlights critical business metrics such as total sales by product category,
 | Power BI Desktop | Data visualization, Dashboard creation         |
 | SQL Scripts      | Data import, exploratory data analysis (EDA), business metrics calculation |
 
+
 📊 Analysis & Visualizations:
 
 Key business metrics explored
@@ -30,7 +31,9 @@ Key business metrics explored
 10. ⚖️ Price-to-Weight Ratio: Comparative visualization of price vs product weight.
 11. 📈 Size Impact on Sales: Revenue and quantity sold based on product sizes.
 
+
 ⚙️ Setup Instructions:
+
 1. 📦 Database Setup:
 Execute the adventure_works_data_import.sql script to create and populate the Sales table.
 Perform exploratory queries using the adventure_works_eda.sql script.
@@ -48,5 +51,7 @@ Refresh the data to populate all the dashboards and visuals based on SQL views.
 4. Deploy dashboard to Power BI Service for real-time online access.
 
 📩 Contact:
+
 For feedback, collaboration opportunities, or any queries, feel free to connect!
+
 ✨ Thank you for checking out this project! ✨
