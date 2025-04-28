@@ -71,3 +71,5 @@ Key business metrics explored:
 For feedback, collaboration opportunities, or any queries, feel free to connect!
 
 ✨ **Thank you for checking out this project!** ✨
+
+<hr style="height:2px; border:none; background-color:#e1e4e8; margin:24px 0;">
